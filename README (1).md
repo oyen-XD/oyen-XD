@@ -16,9 +16,6 @@
 
 > MY PROFILE VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/oyen-XD/count.svg)
-
-- ![Profile views](https://gpvc.arturio.dev/oyen-XD)
 - [![GitHub followers](https://img.shields.io/github/followers/oyen-XD.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/oyen-XD?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
@@ -38,8 +35,8 @@
 <p align="left">
 
 
-<a href="https://fb.com/Rulxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="MR.SABBIR.OFFICIAL404" height="30" width="40" /></a>
-<a href="https://github.com/oyen-XD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/Rulxd" height="30" width="40" /></a>
+<a href="https://fb.com/100075315447360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100075315447360" height="30" width="40" /></a>
+<a href="https://github.com/oyen-XD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/100075315447360" height="30" width="40" /></a>
 
 
 
@@ -54,10 +51,10 @@
 ![Alt text](https://media1.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.webp?cid=6c09b9522ee6b1814c8c70ffe3bae780c736cb7da859a527&rid=giphy.webp&ct=g)
 
 <p align="center">
-<a href="https://github.com/oyen-XD/DECOMPILE-STORE"><img title="DECOMPILE-STORE" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=DECOMPILE-STORE&theme=vision-friendly-dark"></a>
+<a href="https://github.com/oyen-XD/Call"><img title="DECOMPILE-STORE" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=Call&theme=vision-friendly-dark"></a>
 
 <p align="center">
-<a href="https://github.com/oyen-XD/DECOMPILE-STORE"><img title="File-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=File-Pro&theme=vision-friendly-dark"></a>
+<a href="https://github.com/oyen-XD/Call"><img title="File-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=File-Pro&theme=vision-friendly-dark"></a>
 
 > DATABASE:
 
