@@ -51,10 +51,10 @@
 ![Alt text](https://media1.giphy.com/media/hv13U4h8Y7hEdCQ0Ik/giphy.webp?cid=6c09b9522ee6b1814c8c70ffe3bae780c736cb7da859a527&rid=giphy.webp&ct=g)
 
 <p align="center">
-<a href="https://github.com/oyen-XD/Call"><img title="DECOMPILE-STORE" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=Call&theme=vision-friendly-dark"></a>
+<a href="https://github.com/oyen-XD/Call"><img title="Call" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=Call&theme=vision-friendly-dark"></a>
 
 <p align="center">
-<a href="https://github.com/oyen-XD/Call"><img title="File-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=File-Pro&theme=vision-friendly-dark"></a>
+<a href="https://github.com/oyen-XD/Call"><img title="Call" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=File-Pro&theme=vision-friendly-dark"></a>
 
 > DATABASE:
 
