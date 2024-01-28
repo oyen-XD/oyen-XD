@@ -54,7 +54,7 @@
 <a href="https://github.com/oyen-XD/Call"><img title="Call" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=Call&theme=vision-friendly-dark"></a>
 
 <p align="center">
-<a href="https://github.com/oyen-XD/Call"><img title="Call" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=File-Pro&theme=vision-friendly-dark"></a>
+<a href="https://github.com/oyen-XD/Simple"><img title="Call" src="https://github-readme-stats.vercel.app/api/pin/?username=oyen-XD&repo=Simple&theme=vision-friendly-dark"></a>
 
 > DATABASE:
 
